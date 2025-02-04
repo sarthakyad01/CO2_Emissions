@@ -11,4 +11,8 @@ Additionally, this repository serves not only as a platform for sharing insights
 
 ___
 
-# Data Source
+## Data Source
+
+The dataset utilized in this project was sourced from Kaggle, a platform hosting a wide range of community-generated datasets. It contains detailed records of Carbon Dioxide emissions by country, spanning from 1960 to recent years. This comprehensive dataset provides a historical perspective on how different nations have contributed to global Carbon Dioxide emissions over time.
+
+For ease of access and to promote transparency, the dataset has been made available for download directly from this repository. 
